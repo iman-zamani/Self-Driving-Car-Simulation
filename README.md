@@ -14,15 +14,6 @@ Welcome to the Self-Driving Car Simulation project! This repository showcases a 
 
 ![Output GIF](road_line/output.gif)
 
-## Project Overview
-
-This project is a simulation of a self-driving car on a small scale, like the size of a toy car...
-
-
-## Project Overview
-
-This project is a simulation of a self-driving car on a small scale, like the size of a toy car...
-
 
 ## Project Overview
 
