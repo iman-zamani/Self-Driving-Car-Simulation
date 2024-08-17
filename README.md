@@ -12,7 +12,7 @@ Welcome to the Self-Driving Car Simulation project! This repository showcases a 
 
 ## Video of raod line detecting 
 
-![Output GIF](assets/output.gif)
+![Output GIF](road_line/output.gif)
 
 ## Project Overview
 
