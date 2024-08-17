@@ -10,6 +10,17 @@ Welcome to the Self-Driving Car Simulation project! This repository showcases a 
 5. [Using GPU](#using-gpu)
 6. [License](#license)
 
+## Output Video
+
+[![Watch the video](road_line/thumbnail.png)](road_line/output.mp4)
+
+Click the image above to watch the processed video showing the detected road lines.
+
+## Project Overview
+
+This project is a simulation of a self-driving car on a small scale, like the size of a toy car...
+
+
 ## Project Overview
 
 This project is a simulation of a self-driving car on a small scale, like the size of a toy car. The project is divided into three main directories, each focusing on a different aspect of autonomous driving:
