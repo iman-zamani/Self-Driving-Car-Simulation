@@ -10,7 +10,7 @@ Welcome to the Self-Driving Car Simulation project! This repository showcases a 
 5. [Using GPU](#using-gpu)
 6. [License](#license)
 
-## Video of raod line detecting 
+## Video of road line detecting 
 
 ![Output GIF](road_line/output.gif)
 
