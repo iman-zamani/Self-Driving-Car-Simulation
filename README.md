@@ -141,5 +141,14 @@ Make sure your system meets the requirements for running TensorFlow with GPU sup
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
----
-If you encounter any issues or have questions, feel free to open an issue or contribute to the project!
+## Acknowledgments
+
+Thanks to the following contributors for their support and contributions to this project:
+
+- [@ali-hasehmi](https://github.com/ali-hasehmi)
+- [@MahtaMirzaei](https://github.com/MahtaMirzaei)
+- [@amirakbarde](https://github.com/amirakbarde)
+## Support and Contributions
+
+If you encounter any issues or have questions, feel free to open an issue on this repository. Contributions to the project are welcome! Please feel free to fork the repository and submit a pull request.
+
