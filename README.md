@@ -1,4 +1,4 @@
-# Self-Driving Car Simulation Project
+# Self-Driving Car Simulation
 
 Welcome to the Self-Driving Car Simulation project! This repository showcases a small-scale self-driving car simulation using TensorFlow models designed for various tasks such as road line detection, traffic sign detection, and arrow direction detection. These models can be run using Python, TensorFlow Lite, and OpenCV, and they are designed to work on both live webcam feeds and video files.
 
